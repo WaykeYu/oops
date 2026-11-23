@@ -1,105 +1,105 @@
 # 🕷️ 影音網站爬蟲有效性檢測與歸檔報告
 
-> **檢測時間**：`2026-11-22 09:33:52 UTC`  
+> **檢測時間**：`2026-11-23 10:32:26 UTC`  
 
-> **總體概況**：檢測 **252** 個檔案 ｜ ✅ 正常：**63** ｜ ⚠️ 警告：**52** ｜ ❌ 失效/已隔離：**137** ｜ **可用率：45.63%**
+> **總體概況**：檢測 **252** 個檔案 ｜ ✅ 正常：**60** ｜ ⚠️ 警告：**53** ｜ ❌ 失效/已隔離：**139** ｜ **可用率：44.84%**
 
 ### 📊 分類統計
 
-- **Python (`py/`)**：共 **139** 個 ｜ 可用 **67** ｜ 失效已移至 NG **72** ｜ 可用率 **48.2%**
-- **JavaScript (`js/`)**：共 **113** 個 ｜ 可用 **48** ｜ 失效已移至 NG **65** ｜ 可用率 **42.48%**
+- **Python (`py/`)**：共 **139** 個 ｜ 可用 **68** ｜ 失效已移至 NG **71** ｜ 可用率 **48.92%**
+- **JavaScript (`js/`)**：共 **113** 個 ｜ 可用 **45** ｜ 失效已移至 NG **68** ｜ 可用率 **39.82%**
 
 ### 📝 詳細檢測結果
 
 | 類型 | 原檔案路徑 | 狀態 | 耗時 (ms) | 檢測與處理資訊 |
 | :---: | :--- | :---: | :---: | :--- |
-| JS | `js/3Q影视.js` | ✅ 正常 | 503 | 站點可連線 (HTTP 200): https://qqqys.com |
-| JS | `js/3Q影视_Wv.js` | ✅ 正常 | 1060 | 站點可連線 (HTTP 200): https://qqqys.com |
-| JS | `js/555影视.js` | ✅ 正常 | 138 | 站點可連線 (HTTP 200): https://www.55i5m2t9p6.shop |
-| JS | `js/88ball.js` | ✅ 正常 | 4077 | 站點可連線 (HTTP 200): http://www.88kanqiu.cc |
-| JS | `js/B站.js` | ✅ 正常 | 1323 | 站點可連線 (HTTP 200): https://www.bilibili.com |
-| JS | `js/apple.js` | ✅ 正常 | 132 | 站點可連線 (HTTP 200): http://asp.xpgtv.com |
-| JS | `js/ddys.js` | ✅ 正常 | 819 | 站點可連線 (HTTP 200): https://ddys.wiki |
-| JS | `js/dydhhy.js` | ✅ 正常 | 901 | 站點可連線 (HTTP 200): http://www.dydhhy.com |
-| JS | `js/dygang.js` | ✅ 正常 | 87 | 站點可連線 (HTTP 200): https://www.dygang.tv |
-| JS | `js/huya.js` | ✅ 正常 | 122 | 站點可連線 (HTTP 200): https://www.huya.com |
-| JS | `js/index.config.js` | ✅ 正常 | 320 | 站點可連線 (HTTP 200): https://www.labi88.sbs |
-| JS | `js/kkpans.js` | ✅ 正常 | 402 | 站點可連線 (HTTP 200): https://www.kkpans.com |
-| JS | `js/lx-music.js` | ✅ 正常 | 874 | 站點可連線 (HTTP 200): https://88.lxmusic.xn--fiqs8s |
-| JS | `js/meijumi.js` | ✅ 正常 | 525 | 站點可連線 (HTTP 200): https://www.meijumi.net |
-| JS | `js/meow.js` | ✅ 正常 | 463 | 站點可連線 (HTTP 200): https://meow.tg |
-| JS | `js/rrdyw.js` | ✅ 正常 | 417 | 站點可連線 (HTTP 200): https://www.rrdynb.com |
-| JS | `js/ss/xp天堂.js` | ✅ 正常 | 154 | 站點可連線 (HTTP 200): https://dzsx5k01kgm6y.cloudfront.net |
-| JS | `js/tuxiaobei.js` | ✅ 正常 | 1151 | 站點可連線 (HTTP 200): https://www.tuxiaobei.com |
-| JS | `js/tzfile.js` | ✅ 正常 | 319 | 站點可連線 (HTTP 200): https://t-rex.tzfile.com |
-| JS | `js/xb6v.js` | ✅ 正常 | 1059 | 站點可連線 (HTTP 200): http://www.xb6v.com |
-| JS | `js/xiaosa/js/88看球.js` | ✅ 正常 | 4141 | 站點可連線 (HTTP 200): http://www.88kanqiu.cc |
-| JS | `js/xiaosa/js/Anime1.js` | ✅ 正常 | 198 | 站點可連線 (HTTP 200): https://anime1.me |
-| JS | `js/xiaosa/js/人人电影网.js` | ✅ 正常 | 379 | 站點可連線 (HTTP 200): https://www.rrdynb.com |
-| JS | `js/xiaosa/js/全盘.js` | ✅ 正常 | 963 | 站點可連線 (HTTP 200): https://so.yuneu.com/ |
-| JS | `js/xiaosa/js/动漫岛.js` | ✅ 正常 | 2688 | 站點可連線 (HTTP 200): http://www.dmd85.com |
-| JS | `js/xiaosa/js/动画片大全.js` | ✅ 正常 | 1201 | 站點可連線 (HTTP 200): https://www.dhpdq2.com/ |
-| JS | `js/xiaosa/js/奇米动漫.js` | ✅ 正常 | 191 | 站點可連線 (HTTP 200): http://www.qimiqimi.net |
-| JS | `js/xiaosa/js/异世界.js` | ✅ 正常 | 178 | 站點可連線 (HTTP 200): https://www.dmmiku.com/ |
-| JS | `js/xiaosa/js/校长.js` | ✅ 正常 | 550 | 站點可連線 (HTTP 200): https://xzyshd.com |
-| JS | `js/xiaosa/js/爱动漫.js` | ✅ 正常 | 372 | 站點可連線 (HTTP 200): https://bgm.girigirilove.com |
-| JS | `js/xiaosa/js/爱弹幕.js` | ✅ 正常 | 276 | 站點可連線 (HTTP 200): https://anime.girigirilove.com |
-| JS | `js/xiaosa/js/花子动漫.js` | ✅ 正常 | 222 | 站點可連線 (HTTP 200): https://www.huazidm.com |
-| JS | `js/xiaosa/js/路漫漫.js` | ✅ 正常 | 469 | 站點可連線 (HTTP 200): https://www.lmm85.com |
-| JS | `js/xzys.js` | ✅ 正常 | 1209 | 站點可連線 (HTTP 200): https://xzys.fun |
-| JS | `js/yyets.js` | ✅ 正常 | 200 | 站點可連線 (HTTP 200): https://yyets.click |
-| JS | `js/低端影视.js` | ✅ 正常 | 907 | 站點可連線 (HTTP 200): https://www.ddys.run |
-| JS | `js/嘀嗒影视.js` | ✅ 正常 | 914 | 站點可連線 (HTTP 200): https://www.didahd.pro/ |
-| JS | `js/央视频.js` | ✅ 正常 | 813 | 站點可連線 (HTTP 200): https://m.yangshipin.cn/ |
-| JS | `js/子子影视.js` | ✅ 正常 | 80 | 站點可連線 (HTTP 200): https://www.rebozj.pro |
-| JS | `js/新韩剧网.js` | ✅ 正常 | 871 | 站點可連線 (HTTP 200): https://www.hanju7.com |
-| JS | `js/欧乐影院.js` | ✅ 正常 | 142 | 站點可連線 (HTTP 200): https://www.oleol.com/ |
-| JS | `js/注视影视.js` | ✅ 正常 | 2572 | 站點可連線 (HTTP 200): https://gaze.run/ |
-| JS | `js/热播之家.js` | ✅ 正常 | 62 | 站點可連線 (HTTP 200): https://www.rebozj.pro |
-| JS | `js/聚合短剧.js` | ✅ 正常 | 1152 | 站點可連線 (HTTP 200): https://api.jkyai.top |
-| JS | `js/荐片.js` | ✅ 正常 | 1336 | 站點可連線 (HTTP 200): https://api.ztcgi.com |
-| JS | `js/金牌影视-DS.js` | ✅ 正常 | 4275 | 站點可連線 (HTTP 200): https://www.sizhengxt.com |
-| JS | `js/金牌影视.js` | ✅ 正常 | 3066 | 站點可連線 (HTTP 200): https://www.x8kb9k8.com |
-| JS | `js/飞快TV.js` | ✅ 正常 | 1852 | 站點可連線 (HTTP 200): https://feikuai.tv/ |
-| JS | `js/4khdr.js` | ❌ 失效 | 128 | 連線失敗 (HTTPSConnectionPool(host='www.4khdr): https://www.4khdr.cn ➔ 已移至 `js/NG/4khdr.js` |
-| JS | `js/97tvs.js` | ❌ 失效 | 81 | 連線失敗 (HTTPSConnectionPool(host='www.97tvs): https://www.97tvs.com ➔ 已移至 `js/NG/97tvs.js` |
-| JS | `js/aipanso.js` | ❌ 失效 | 506 | 連線失敗 (HTTP 403): https://aipanso.com ➔ 已移至 `js/NG/aipanso.js` |
-| JS | `js/cilixiong.js` | ❌ 失效 | 329 | 連線失敗 (HTTPSConnectionPool(host='www.cilix): https://www.cilixiong.com ➔ 已移至 `js/NG/cilixiong.js` |
-| JS | `js/cilixiongp.js` | ❌ 失效 | 270 | 連線失敗 (HTTPSConnectionPool(host='www.cilix): https://www.cilixiong.com ➔ 已移至 `js/NG/cilixiongp.js` |
-| JS | `js/funletu.js` | ❌ 失效 | 1784 | 連線失敗 (HTTPSConnectionPool(host='v.funletu): https://v.funletu.com ➔ 已移至 `js/NG/funletu.js` |
-| JS | `js/index.js` | ❌ 失效 | 3277 | 連線失敗 (HTTP 500): https://share-kd-njs.yun.139.com/yun-share/richlifeApp/devapp/IOutLink/ ➔ 已移至 `js/NG/index.js` |
-| JS | `js/jiyingw.js` | ❌ 失效 | 154 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jiyingw.net ➔ 已移至 `js/NG/jiyingw.js` |
-| JS | `js/jiyingwp.js` | ❌ 失效 | 261 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jiyingw.net ➔ 已移至 `js/NG/jiyingwp.js` |
-| JS | `js/kuba.js` | ❌ 失效 | 972 | 連線失敗 (HTTP 403): https://www.kuba222.com ➔ 已移至 `js/NG/kuba.js` |
-| JS | `js/libvio.js` | ❌ 失效 | 10013 | 連線失敗 (HTTPSConnectionPool(host='tv.libvio): https://tv.libvio.cc ➔ 已移至 `js/NG/libvio.js` |
-| JS | `js/meijumip.js` | ❌ 失效 | 1241 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.meijumi.xyz ➔ 已移至 `js/NG/meijumip.js` |
-| JS | `js/mp4us.js` | ❌ 失效 | 258 | 連線失敗 (HTTPSConnectionPool(host='www.mp4us): https://www.mp4us.com ➔ 已移至 `js/NG/mp4us.js` |
-| JS | `js/qimiao.js` | ❌ 失效 | 319 | 連線失敗 (HTTP 404): https://www.magicalsearch.top ➔ 已移至 `js/NG/qimiao.js` |
-| JS | `js/xiaosa/js/56动漫.js` | ❌ 失效 | 278 | 連線失敗 (HTTP 403): https://www.56dm.cc/ ➔ 已移至 `js/xiaosa/js/NG/56动漫.js` |
-| JS | `js/xiaosa/js/NT动漫.js` | ❌ 失效 | 47 | 連線失敗 (HTTPConnectionPool(host='www.ntdm8.): http://www.ntdm8.com ➔ 已移至 `js/xiaosa/js/NG/NT动漫.js` |
-| JS | `js/xiaosa/js/NyaFun.js` | ❌ 失效 | 284 | 連線失敗 (HTTPSConnectionPool(host='www.nyafu): https://www.nyafun.net ➔ 已移至 `js/xiaosa/js/NG/NyaFun.js` |
-| JS | `js/xiaosa/js/三六零.js` | ❌ 失效 | 438 | 連線失敗 (HTTPSConnectionPool(host='www.360ka): https://www.360kan.com ➔ 已移至 `js/xiaosa/js/NG/三六零.js` |
-| JS | `js/xiaosa/js/剧圈圈.js` | ❌ 失效 | 1567 | 連線失敗 (HTTP 404): https://www.jqqzx.cc/ ➔ 已移至 `js/xiaosa/js/NG/剧圈圈.js` |
-| JS | `js/xiaosa/js/动漫巴士.js` | ❌ 失效 | 32 | 連線失敗 (HTTPConnectionPool(host='dm84.site'): http://dm84.site ➔ 已移至 `js/xiaosa/js/NG/动漫巴士.js` |
-| JS | `js/xiaosa/js/去看吧.js` | ❌ 失效 | 157 | 連線失敗 (HTTP 403): https://qkan8.com ➔ 已移至 `js/xiaosa/js/NG/去看吧.js` |
-| JS | `js/xiaosa/js/双星.js` | ❌ 失效 | 890 | 連線失敗 (('Connection aborted.', RemoteDisco): https://1.star2.cn ➔ 已移至 `js/xiaosa/js/NG/双星.js` |
-| JS | `js/xiaosa/js/天堂.js` | ❌ 失效 | 32 | 連線失敗 (HTTPSConnectionPool(host='pansott.c): https://pansott.com/ ➔ 已移至 `js/xiaosa/js/NG/天堂.js` |
-| JS | `js/xiaosa/js/好看动漫.js` | ❌ 失效 | 1019 | 連線失敗 (HTTP 444): https://www.youjiula.com/ ➔ 已移至 `js/xiaosa/js/NG/好看动漫.js` |
-| JS | `js/xiaosa/js/短剧全网.js` | ❌ 失效 | 10045 | 連線失敗 (HTTPConnectionPool(host='xsayang.fu): http://xsayang.fun:14710 ➔ 已移至 `js/xiaosa/js/NG/短剧全网.js` |
-| JS | `js/yyetsp.js` | ❌ 失效 | 1 | 連線失敗 (HTTPConnectionPool(host='127.0.0.1'): http://127.0.0.1:10079 ➔ 已移至 `js/NG/yyetsp.js` |
-| JS | `js/修罗影视.js` | ❌ 失效 | 454 | 連線失敗 (HTTPSConnectionPool(host='www.xlys0): https://www.xlys02.com ➔ 已移至 `js/NG/修罗影视.js` |
-| JS | `js/剧圈圈.js` | ❌ 失效 | 1725 | 連線失敗 (HTTP 404): https://www.jqqzx.top ➔ 已移至 `js/NG/剧圈圈.js` |
-| JS | `js/剧多多.js` | ❌ 失效 | 2352 | 連線失敗 (HTTP 404): https://www.jddzx.cc ➔ 已移至 `js/NG/剧多多.js` |
-| JS | `js/厂长资源.js` | ❌ 失效 | 705 | 連線失敗 (HTTP 403): https://www.czzymovie.com/ ➔ 已移至 `js/NG/厂长资源.js` |
-| JS | `js/快点播.js` | ❌ 失效 | 1452 | 連線失敗 (HTTP 404): https://www.quickvod.fun/ ➔ 已移至 `js/NG/快点播.js` |
-| JS | `js/永乐视频.js` | ❌ 失效 | 13432 | 連線失敗 (HTTP 523): https://www.ylys.tv ➔ 已移至 `js/NG/永乐视频.js` |
-| JS | `js/海龟.js` | ❌ 失效 | 1244 | 連線失敗 (HTTP 403): https://www.haigui.tv ➔ 已移至 `js/NG/海龟.js` |
-| JS | `js/爱追剧.js` | ❌ 失效 | 598 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.aizju.com ➔ 已移至 `js/NG/爱追剧.js` |
-| JS | `js/茶杯狐.js` | ❌ 失效 | 991 | 連線失敗 (HTTP 404): https://www.cupfox.ai/ ➔ 已移至 `js/NG/茶杯狐.js` |
-| JS | `js/蛋蛋鱼.js` | ❌ 失效 | 1080 | 連線失敗 (HTTP 404): https://www.dandanyu.fun/ ➔ 已移至 `js/NG/蛋蛋鱼.js` |
-| JS | `js/金牌影院.js` | ❌ 失效 | 254 | 連線失敗 (HTTPSConnectionPool(host='hnytxj.co): https://hnytxj.com ➔ 已移至 `js/NG/金牌影院.js` |
-| JS | `js/锦鲤短剧.js` | ❌ 失效 | 164 | 連線失敗 (HTTPSConnectionPool(host='api.jinli): https://api.jinlidj.com ➔ 已移至 `js/NG/锦鲤短剧.js` |
-| JS | `js/鬼片之家.js` | ❌ 失效 | 125 | 連線失敗 (HTTP 403): https://www.guipian360.com ➔ 已移至 `js/NG/鬼片之家.js` |
+| JS | `js/555影视.js` | ✅ 正常 | 109 | 站點可連線 (HTTP 200): https://www.55i5m2t9p6.shop |
+| JS | `js/88ball.js` | ✅ 正常 | 4637 | 站點可連線 (HTTP 200): http://www.88kanqiu.cc |
+| JS | `js/B站.js` | ✅ 正常 | 932 | 站點可連線 (HTTP 200): https://www.bilibili.com |
+| JS | `js/apple.js` | ✅ 正常 | 197 | 站點可連線 (HTTP 200): http://asp.xpgtv.com |
+| JS | `js/ddys.js` | ✅ 正常 | 933 | 站點可連線 (HTTP 200): https://ddys.wiki |
+| JS | `js/dydhhy.js` | ✅ 正常 | 1503 | 站點可連線 (HTTP 200): http://www.dydhhy.com |
+| JS | `js/dygang.js` | ✅ 正常 | 168 | 站點可連線 (HTTP 200): https://www.dygang.tv |
+| JS | `js/huya.js` | ✅ 正常 | 27 | 站點可連線 (HTTP 200): https://www.huya.com |
+| JS | `js/index.config.js` | ✅ 正常 | 265 | 站點可連線 (HTTP 200): https://www.labi88.sbs |
+| JS | `js/kkpans.js` | ✅ 正常 | 407 | 站點可連線 (HTTP 200): https://www.kkpans.com |
+| JS | `js/lx-music.js` | ✅ 正常 | 904 | 站點可連線 (HTTP 200): https://88.lxmusic.xn--fiqs8s |
+| JS | `js/meijumi.js` | ✅ 正常 | 612 | 站點可連線 (HTTP 200): https://www.meijumi.net |
+| JS | `js/meow.js` | ✅ 正常 | 319 | 站點可連線 (HTTP 200): https://meow.tg |
+| JS | `js/rrdyw.js` | ✅ 正常 | 351 | 站點可連線 (HTTP 200): https://www.rrdynb.com |
+| JS | `js/ss/xp天堂.js` | ✅ 正常 | 637 | 站點可連線 (HTTP 200): https://dzsx5k01kgm6y.cloudfront.net |
+| JS | `js/tuxiaobei.js` | ✅ 正常 | 2065 | 站點可連線 (HTTP 200): https://www.tuxiaobei.com |
+| JS | `js/tzfile.js` | ✅ 正常 | 285 | 站點可連線 (HTTP 200): https://t-rex.tzfile.com |
+| JS | `js/xb6v.js` | ✅ 正常 | 1216 | 站點可連線 (HTTP 200): http://www.xb6v.com |
+| JS | `js/xiaosa/js/88看球.js` | ✅ 正常 | 4636 | 站點可連線 (HTTP 200): http://www.88kanqiu.cc |
+| JS | `js/xiaosa/js/Anime1.js` | ✅ 正常 | 102 | 站點可連線 (HTTP 200): https://anime1.me |
+| JS | `js/xiaosa/js/人人电影网.js` | ✅ 正常 | 303 | 站點可連線 (HTTP 200): https://www.rrdynb.com |
+| JS | `js/xiaosa/js/全盘.js` | ✅ 正常 | 1123 | 站點可連線 (HTTP 200): https://so.yuneu.com/ |
+| JS | `js/xiaosa/js/动漫岛.js` | ✅ 正常 | 1952 | 站點可連線 (HTTP 200): http://www.dmd85.com |
+| JS | `js/xiaosa/js/动画片大全.js` | ✅ 正常 | 1426 | 站點可連線 (HTTP 200): https://www.dhpdq2.com/ |
+| JS | `js/xiaosa/js/奇米动漫.js` | ✅ 正常 | 71 | 站點可連線 (HTTP 200): http://www.qimiqimi.net |
+| JS | `js/xiaosa/js/异世界.js` | ✅ 正常 | 141 | 站點可連線 (HTTP 200): https://www.dmmiku.com/ |
+| JS | `js/xiaosa/js/校长.js` | ✅ 正常 | 314 | 站點可連線 (HTTP 200): https://xzyshd.com |
+| JS | `js/xiaosa/js/爱动漫.js` | ✅ 正常 | 516 | 站點可連線 (HTTP 200): https://bgm.girigirilove.com |
+| JS | `js/xiaosa/js/爱弹幕.js` | ✅ 正常 | 681 | 站點可連線 (HTTP 200): https://anime.girigirilove.com |
+| JS | `js/xiaosa/js/路漫漫.js` | ✅ 正常 | 598 | 站點可連線 (HTTP 200): https://www.lmm85.com |
+| JS | `js/xzys.js` | ✅ 正常 | 1005 | 站點可連線 (HTTP 200): https://xzys.fun |
+| JS | `js/yyets.js` | ✅ 正常 | 548 | 站點可連線 (HTTP 200): https://yyets.click |
+| JS | `js/低端影视.js` | ✅ 正常 | 863 | 站點可連線 (HTTP 200): https://www.ddys.run |
+| JS | `js/嘀嗒影视.js` | ✅ 正常 | 1646 | 站點可連線 (HTTP 200): https://www.didahd.pro/ |
+| JS | `js/央视频.js` | ✅ 正常 | 1212 | 站點可連線 (HTTP 200): https://m.yangshipin.cn/ |
+| JS | `js/子子影视.js` | ✅ 正常 | 634 | 站點可連線 (HTTP 200): https://www.rebozj.pro |
+| JS | `js/新韩剧网.js` | ✅ 正常 | 1083 | 站點可連線 (HTTP 200): https://www.hanju7.com |
+| JS | `js/欧乐影院.js` | ✅ 正常 | 96 | 站點可連線 (HTTP 200): https://www.oleol.com/ |
+| JS | `js/注视影视.js` | ✅ 正常 | 3733 | 站點可連線 (HTTP 200): https://gaze.run/ |
+| JS | `js/热播之家.js` | ✅ 正常 | 518 | 站點可連線 (HTTP 200): https://www.rebozj.pro |
+| JS | `js/聚合短剧.js` | ✅ 正常 | 1691 | 站點可連線 (HTTP 200): https://api.jkyai.top |
+| JS | `js/荐片.js` | ✅ 正常 | 1077 | 站點可連線 (HTTP 200): https://api.ztcgi.com |
+| JS | `js/金牌影视-DS.js` | ✅ 正常 | 4811 | 站點可連線 (HTTP 200): https://www.sizhengxt.com |
+| JS | `js/金牌影视.js` | ✅ 正常 | 3353 | 站點可連線 (HTTP 200): https://www.x8kb9k8.com |
+| JS | `js/飞快TV.js` | ✅ 正常 | 2062 | 站點可連線 (HTTP 200): https://feikuai.tv/ |
+| JS | `js/3Q影视.js` | ❌ 失效 | 2521 | 連線失敗 (HTTP 403): https://qqqys.com ➔ 已移至 `js/NG/3Q影视.js` |
+| JS | `js/3Q影视_Wv.js` | ❌ 失效 | 2748 | 連線失敗 (HTTP 403): https://qqqys.com ➔ 已移至 `js/NG/3Q影视_Wv.js` |
+| JS | `js/4khdr.js` | ❌ 失效 | 350 | 連線失敗 (HTTPSConnectionPool(host='www.4khdr): https://www.4khdr.cn ➔ 已移至 `js/NG/4khdr.js` |
+| JS | `js/97tvs.js` | ❌ 失效 | 116 | 連線失敗 (HTTPSConnectionPool(host='www.97tvs): https://www.97tvs.com ➔ 已移至 `js/NG/97tvs.js` |
+| JS | `js/aipanso.js` | ❌ 失效 | 326 | 連線失敗 (HTTP 403): https://aipanso.com ➔ 已移至 `js/NG/aipanso.js` |
+| JS | `js/cilixiong.js` | ❌ 失效 | 127 | 連線失敗 (HTTPSConnectionPool(host='www.cilix): https://www.cilixiong.com ➔ 已移至 `js/NG/cilixiong.js` |
+| JS | `js/cilixiongp.js` | ❌ 失效 | 125 | 連線失敗 (HTTPSConnectionPool(host='www.cilix): https://www.cilixiong.com ➔ 已移至 `js/NG/cilixiongp.js` |
+| JS | `js/funletu.js` | ❌ 失效 | 964 | 連線失敗 (HTTPSConnectionPool(host='v.funletu): https://v.funletu.com ➔ 已移至 `js/NG/funletu.js` |
+| JS | `js/index.js` | ❌ 失效 | 4648 | 連線失敗 (HTTP 500): https://share-kd-njs.yun.139.com/yun-share/richlifeApp/devapp/IOutLink/ ➔ 已移至 `js/NG/index.js` |
+| JS | `js/jiyingw.js` | ❌ 失效 | 278 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jiyingw.net ➔ 已移至 `js/NG/jiyingw.js` |
+| JS | `js/jiyingwp.js` | ❌ 失效 | 422 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jiyingw.net ➔ 已移至 `js/NG/jiyingwp.js` |
+| JS | `js/kuba.js` | ❌ 失效 | 1376 | 連線失敗 (HTTP 403): https://www.kuba222.com ➔ 已移至 `js/NG/kuba.js` |
+| JS | `js/libvio.js` | ❌ 失效 | 10014 | 連線失敗 (HTTPSConnectionPool(host='tv.libvio): https://tv.libvio.cc ➔ 已移至 `js/NG/libvio.js` |
+| JS | `js/meijumip.js` | ❌ 失效 | 782 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.meijumi.xyz ➔ 已移至 `js/NG/meijumip.js` |
+| JS | `js/mp4us.js` | ❌ 失效 | 277 | 連線失敗 (HTTPSConnectionPool(host='www.mp4us): https://www.mp4us.com ➔ 已移至 `js/NG/mp4us.js` |
+| JS | `js/qimiao.js` | ❌ 失效 | 733 | 連線失敗 (HTTP 404): https://www.magicalsearch.top ➔ 已移至 `js/NG/qimiao.js` |
+| JS | `js/xiaosa/js/56动漫.js` | ❌ 失效 | 441 | 連線失敗 (HTTP 403): https://www.56dm.cc/ ➔ 已移至 `js/xiaosa/js/NG/56动漫.js` |
+| JS | `js/xiaosa/js/NT动漫.js` | ❌ 失效 | 41 | 連線失敗 (HTTPConnectionPool(host='www.ntdm8.): http://www.ntdm8.com ➔ 已移至 `js/xiaosa/js/NG/NT动漫.js` |
+| JS | `js/xiaosa/js/NyaFun.js` | ❌ 失效 | 129 | 連線失敗 (HTTPSConnectionPool(host='www.nyafu): https://www.nyafun.net ➔ 已移至 `js/xiaosa/js/NG/NyaFun.js` |
+| JS | `js/xiaosa/js/三六零.js` | ❌ 失效 | 472 | 連線失敗 (HTTPSConnectionPool(host='www.360ka): https://www.360kan.com ➔ 已移至 `js/xiaosa/js/NG/三六零.js` |
+| JS | `js/xiaosa/js/剧圈圈.js` | ❌ 失效 | 2192 | 連線失敗 (HTTP 404): https://www.jqqzx.cc/ ➔ 已移至 `js/xiaosa/js/NG/剧圈圈.js` |
+| JS | `js/xiaosa/js/动漫巴士.js` | ❌ 失效 | 47 | 連線失敗 (HTTPConnectionPool(host='dm84.site'): http://dm84.site ➔ 已移至 `js/xiaosa/js/NG/动漫巴士.js` |
+| JS | `js/xiaosa/js/去看吧.js` | ❌ 失效 | 120 | 連線失敗 (HTTP 403): https://qkan8.com ➔ 已移至 `js/xiaosa/js/NG/去看吧.js` |
+| JS | `js/xiaosa/js/双星.js` | ❌ 失效 | 2978 | 連線失敗 (('Connection aborted.', RemoteDisco): https://1.star2.cn ➔ 已移至 `js/xiaosa/js/NG/双星.js` |
+| JS | `js/xiaosa/js/天堂.js` | ❌ 失效 | 8 | 連線失敗 (HTTPSConnectionPool(host='pansott.c): https://pansott.com/ ➔ 已移至 `js/xiaosa/js/NG/天堂.js` |
+| JS | `js/xiaosa/js/好看动漫.js` | ❌ 失效 | 1845 | 連線失敗 (HTTP 444): https://www.youjiula.com/ ➔ 已移至 `js/xiaosa/js/NG/好看动漫.js` |
+| JS | `js/xiaosa/js/短剧全网.js` | ❌ 失效 | 10083 | 連線失敗 (HTTPConnectionPool(host='xsayang.fu): http://xsayang.fun:14710 ➔ 已移至 `js/xiaosa/js/NG/短剧全网.js` |
+| JS | `js/xiaosa/js/花子动漫.js` | ❌ 失效 | 1288 | 連線失敗 (('Connection aborted.', RemoteDisco): https://www.huazidm.com ➔ 已移至 `js/xiaosa/js/NG/花子动漫.js` |
+| JS | `js/yyetsp.js` | ❌ 失效 | 4 | 連線失敗 (HTTPConnectionPool(host='127.0.0.1'): http://127.0.0.1:10079 ➔ 已移至 `js/NG/yyetsp.js` |
+| JS | `js/修罗影视.js` | ❌ 失效 | 290 | 連線失敗 (HTTPSConnectionPool(host='www.xlys0): https://www.xlys02.com ➔ 已移至 `js/NG/修罗影视.js` |
+| JS | `js/剧圈圈.js` | ❌ 失效 | 2189 | 連線失敗 (HTTP 404): https://www.jqqzx.top ➔ 已移至 `js/NG/剧圈圈.js` |
+| JS | `js/剧多多.js` | ❌ 失效 | 3026 | 連線失敗 (HTTP 404): https://www.jddzx.cc ➔ 已移至 `js/NG/剧多多.js` |
+| JS | `js/厂长资源.js` | ❌ 失效 | 1106 | 連線失敗 (HTTP 403): https://www.czzymovie.com/ ➔ 已移至 `js/NG/厂长资源.js` |
+| JS | `js/快点播.js` | ❌ 失效 | 1729 | 連線失敗 (HTTP 404): https://www.quickvod.fun/ ➔ 已移至 `js/NG/快点播.js` |
+| JS | `js/永乐视频.js` | ❌ 失效 | 13938 | 連線失敗 (HTTP 523): https://www.ylys.tv ➔ 已移至 `js/NG/永乐视频.js` |
+| JS | `js/海龟.js` | ❌ 失效 | 937 | 連線失敗 (HTTP 403): https://www.haigui.tv ➔ 已移至 `js/NG/海龟.js` |
+| JS | `js/爱追剧.js` | ❌ 失效 | 484 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.aizju.com ➔ 已移至 `js/NG/爱追剧.js` |
+| JS | `js/茶杯狐.js` | ❌ 失效 | 1396 | 連線失敗 (HTTP 404): https://www.cupfox.ai/ ➔ 已移至 `js/NG/茶杯狐.js` |
+| JS | `js/蛋蛋鱼.js` | ❌ 失效 | 1342 | 連線失敗 (HTTP 404): https://www.dandanyu.fun/ ➔ 已移至 `js/NG/蛋蛋鱼.js` |
+| JS | `js/金牌影院.js` | ❌ 失效 | 458 | 連線失敗 (HTTPSConnectionPool(host='hnytxj.co): https://hnytxj.com ➔ 已移至 `js/NG/金牌影院.js` |
+| JS | `js/锦鲤短剧.js` | ❌ 失效 | 251 | 連線失敗 (HTTPSConnectionPool(host='api.jinli): https://api.jinlidj.com ➔ 已移至 `js/NG/锦鲤短剧.js` |
+| JS | `js/鬼片之家.js` | ❌ 失效 | 368 | 連線失敗 (HTTP 403): https://www.guipian360.com ➔ 已移至 `js/NG/鬼片之家.js` |
 | JS | `js/123av.user.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/NG/123av.user.js` |
 | JS | `js/cheerio.min.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/NG/cheerio.min.js` |
 | JS | `js/crypto-js.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/NG/crypto-js.js` |
@@ -126,122 +126,122 @@
 | JS | `js/xiaosa/js/采集之王.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/xiaosa/js/NG/采集之王.js` |
 | JS | `js/xojav.user.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/NG/xojav.user.js` |
 | JS | `js/模板.js` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `js/NG/模板.js` |
-| Python | `py/4K影院.py` | ⚠️ 站點存活(載入受限) | 490 | 站點可連線 (HTTP 200): https://www.4kvm.net |
-| Python | `py/LIVES.py` | ⚠️ 站點存活(載入受限) | 683 | 站點可連線 (HTTP 200): https://www.huya.com |
-| Python | `py/Mang.py` | ⚠️ 站點存活(載入受限) | 555 | 站點可連線 (HTTP 200): https://www.mgtv.com |
-| Python | `py/Phb.py` | ⚠️ 站點存活(載入受限) | 1175 | 站點可連線 (HTTP 200): https://www.pornhub.com |
-| Python | `py/Xhm.py` | ⚠️ 站點存活(載入受限) | 507 | 站點可連線 (HTTP 200): https://xhamster.com |
-| Python | `py/Xvd.py` | ⚠️ 站點存活(載入受限) | 854 | 站點可連線 (HTTP 200): https://www.xvideos.com |
-| Python | `py/actor.py` | ⚠️ 站點存活(載入受限) | 972 | 站點可連線 (HTTP 200): https://www.youku.com |
-| Python | `py/aigua.py` | ⚠️ 站點存活(載入受限) | 2555 | 站點可連線 (HTTP 200): https://aigua8.com |
-| Python | `py/aikanbot.py` | ⚠️ 站點存活(載入受限) | 99 | 站點可連線 (HTTP 200): https://www1.aikanbot.com |
-| Python | `py/bubuzhuiju.py` | ⚠️ 站點存活(載入受限) | 70 | 站點可連線 (HTTP 200): https://323433ssdfd.top |
-| Python | `py/ddmf.py` | ⚠️ 站點存活(載入受限) | 430 | 站點可連線 (HTTP 200): https://www.ddmf.net |
-| Python | `py/dsystv.py` | ⚠️ 站點存活(載入受限) | 390 | 站點可連線 (HTTP 200): https://dsystv.com |
-| Python | `py/duoduo.py` | ⚠️ 站點存活(載入受限) | 114 | 站點可連線 (HTTP 200): https://duoduosdf12223234334.top |
-| Python | `py/fqdm.py` | ⚠️ 站點存活(載入受限) | 196 | 站點可連線 (HTTP 200): https://www.fqdm.cc |
-| Python | `py/goldmedal.py` | ⚠️ 站點存活(載入受限) | 4861 | 站點可連線 (HTTP 200): https://www.x8kb9k8.com |
-| Python | `py/guazi.py` | ⚠️ 站點存活(載入受限) | 1211 | 站點可連線 (HTTP 200): https://apinew.uozvr.com |
-| Python | `py/hongguo_fixed.py` | ⚠️ 站點存活(載入受限) | 709 | 站點可連線 (HTTP 200): https://www.hongguoapp.cn |
-| Python | `py/huavod.py` | ⚠️ 站點存活(載入受限) | 401 | 站點可連線 (HTTP 200): https://huavod.com |
-| Python | `py/jieyingshi.py` | ⚠️ 站點存活(載入受限) | 3437 | 站點可連線 (HTTP 200): https://www.hkybqufgh.com |
-| Python | `py/kkys.py` | ⚠️ 站點存活(載入受限) | 1196 | 站點可連線 (HTTP 200): https://www.kkys20.com |
-| Python | `py/like.py` | ⚠️ 站點存活(載入受限) | 190 | 站點可連線 (HTTP 200): https://www.iqiyi.com |
-| Python | `py/mifun.py` | ⚠️ 站點存活(載入受限) | 191 | 站點可連線 (HTTP 200): https://getcn.mymifun.com |
-| Python | `py/oule.py` | ⚠️ 站點存活(載入受限) | 116 | 站點可連線 (HTTP 200): https://www.olevod.one |
-| Python | `py/pianku4k.py` | ⚠️ 站點存活(載入受限) | 249 | 站點可連線 (HTTP 200): https://4k01.pianku.online |
-| Python | `py/ppnix.py` | ⚠️ 站點存活(載入受限) | 241 | 站點可連線 (HTTP 200): https://www.ppnix.com |
-| Python | `py/qiyoudy.py` | ⚠️ 站點存活(載入受限) | 93 | 站點可連線 (HTTP 200): http://www.qiyoudy2.com |
-| Python | `py/ysttv.py` | ⚠️ 站點存活(載入受限) | 455 | 站點可連線 (HTTP 200): http://ysttv.com |
-| Python | `py/ytb.py` | ⚠️ 站點存活(載入受限) | 510 | 站點可連線 (HTTP 200): https://www.youtube.com |
-| Python | `py/ytbzb.py` | ⚠️ 站點存活(載入受限) | 340 | 站點可連線 (HTTP 200): https://www.youtube.com |
-| Python | `py/yysub.py` | ⚠️ 站點存活(載入受限) | 438 | 站點可連線 (HTTP 200): https://m.yysub.cc |
-| Python | `py/两个BT.py` | ⚠️ 站點存活(載入受限) | 505 | 站點可連線 (HTTP 200): https://www.bttwoo.com |
-| Python | `py/优酷视频.py` | ⚠️ 站點存活(載入受限) | 757 | 站點可連線 (HTTP 200): https://www.youku.com |
-| Python | `py/哔哩直播.py` | ⚠️ 站點存活(載入受限) | 509 | 站點可連線 (HTTP 200): https://search.bilibili.com |
-| Python | `py/哔哩视频.py` | ⚠️ 站點存活(載入受限) | 670 | 站點可連線 (HTTP 200): https://api.bilibili.com/pgc/season/index/result?order=2&sort=0&pagesize=20&type=1&st={}&season_type={}&page={} |
-| Python | `py/央视影视.py` | ⚠️ 站點存活(載入受限) | 929 | 站點可連線 (HTTP 200): https://api.cntv.cn/NewVideo/getVideoListByColumn?{0}&n=20&sort=desc&mode=0&serviceId=tvcctv&t=json |
-| Python | `py/奇优动漫.py` | ⚠️ 站點存活(載入受限) | 135 | 站點可連線 (HTTP 200): http://qiyoudy5.com/search.php |
-| Python | `py/奇迹影视.py` | ⚠️ 站點存活(載入受限) | 139 | 站點可連線 (HTTP 200): https://www.qj1080.top |
-| Python | `py/小红薯APP.py` | ⚠️ 站點存活(載入受限) | 321 | 站點可連線 (HTTP 200): https://jhfkdnov21vfd.dyfcbkggxn.work |
-| Python | `py/小苹果APP.py` | ⚠️ 站點存活(載入受限) | 114 | 站點可連線 (HTTP 200): http://item.xpgtv.com |
-| Python | `py/小苹果影视.py` | ⚠️ 站點存活(載入受限) | 267 | 站點可連線 (HTTP 200): http://item.xpgcom.com |
-| Python | `py/广东荔枝.py` | ⚠️ 站點存活(載入受限) | 902 | 站點可連線 (HTTP 200): https://www.gdtv.cn |
-| Python | `py/爱奇艺.py` | ⚠️ 站點存活(載入受限) | 828 | 站點可連線 (HTTP 200): https://www.iqiyi.com |
-| Python | `py/爱瓜影视.py` | ⚠️ 站點存活(載入受限) | 110 | 站點可連線 (HTTP 200): https://tvapi211.magicetech.com |
-| Python | `py/球球.py` | ⚠️ 站點存活(載入受限) | 224 | 站點可連線 (HTTP 200): https://kzb29rda.com |
-| Python | `py/瓜子.py` | ⚠️ 站點存活(載入受限) | 512 | 站點可連線 (HTTP 200): https://api.w32z7vtd.com |
-| Python | `py/界影视.py` | ⚠️ 站點存活(載入受限) | 5733 | 站點可連線 (HTTP 200): https://www.hkybqufgh.com |
-| Python | `py/盘友圈.py` | ⚠️ 站點存活(載入受限) | 115 | 站點可連線 (HTTP 200): https://panyq.com |
-| Python | `py/米盘搜.py` | ⚠️ 站點存活(載入受限) | 1299 | 站點可連線 (HTTP 200): http://www.misoso.cc |
-| Python | `py/粤漫.py` | ⚠️ 站點存活(載入受限) | 701 | 站點可連線 (HTTP 200): https://www.ymvid.com |
-| Python | `py/网络直播.py` | ⚠️ 站點存活(載入受限) | 128 | 站點可連線 (HTTP 200): https://www.huya.com |
-| Python | `py/芒果视频.py` | ⚠️ 站點存活(載入受限) | 232 | 站點可連線 (HTTP 200): https://www.mgtv.com |
-| Python | `py/饭团影视.py` | ⚠️ 站點存活(載入受限) | 126 | 站點可連線 (HTTP 200): https://fantuansjz.com |
-| Python | `py/8kvod.py` | ✅ 正常 | 1056 | homeContent 響應成功 |
+| Python | `py/4K影院.py` | ⚠️ 站點存活(載入受限) | 598 | 站點可連線 (HTTP 200): https://www.4kvm.net |
+| Python | `py/LIVES.py` | ⚠️ 站點存活(載入受限) | 710 | 站點可連線 (HTTP 200): https://www.huya.com |
+| Python | `py/Mang.py` | ⚠️ 站點存活(載入受限) | 781 | 站點可連線 (HTTP 200): https://www.mgtv.com |
+| Python | `py/Phb.py` | ⚠️ 站點存活(載入受限) | 1219 | 站點可連線 (HTTP 200): https://www.pornhub.com |
+| Python | `py/Xhm.py` | ⚠️ 站點存活(載入受限) | 411 | 站點可連線 (HTTP 200): https://xhamster.com |
+| Python | `py/Xvd.py` | ⚠️ 站點存活(載入受限) | 973 | 站點可連線 (HTTP 200): https://www.xvideos.com |
+| Python | `py/actor.py` | ⚠️ 站點存活(載入受限) | 1060 | 站點可連線 (HTTP 200): https://www.youku.com |
+| Python | `py/aigua.py` | ⚠️ 站點存活(載入受限) | 2338 | 站點可連線 (HTTP 200): https://aigua8.com |
+| Python | `py/aikanbot.py` | ⚠️ 站點存活(載入受限) | 84 | 站點可連線 (HTTP 200): https://www1.aikanbot.com |
+| Python | `py/bubuzhuiju.py` | ⚠️ 站點存活(載入受限) | 257 | 站點可連線 (HTTP 200): https://323433ssdfd.top |
+| Python | `py/ddmf.py` | ⚠️ 站點存活(載入受限) | 1096 | 站點可連線 (HTTP 200): https://www.ddmf.net |
+| Python | `py/dsystv.py` | ⚠️ 站點存活(載入受限) | 400 | 站點可連線 (HTTP 200): https://dsystv.com |
+| Python | `py/duoduo.py` | ⚠️ 站點存活(載入受限) | 226 | 站點可連線 (HTTP 200): https://duoduosdf12223234334.top |
+| Python | `py/fqdm.py` | ⚠️ 站點存活(載入受限) | 305 | 站點可連線 (HTTP 200): https://www.fqdm.cc |
+| Python | `py/goldmedal.py` | ⚠️ 站點存活(載入受限) | 5743 | 站點可連線 (HTTP 200): https://www.x8kb9k8.com |
+| Python | `py/guazi.py` | ⚠️ 站點存活(載入受限) | 1365 | 站點可連線 (HTTP 200): https://apinew.uozvr.com |
+| Python | `py/hongguo_fixed.py` | ⚠️ 站點存活(載入受限) | 669 | 站點可連線 (HTTP 200): https://www.hongguoapp.cn |
+| Python | `py/huavod.py` | ⚠️ 站點存活(載入受限) | 367 | 站點可連線 (HTTP 200): https://huavod.com |
+| Python | `py/jieyingshi.py` | ⚠️ 站點存活(載入受限) | 1712 | 站點可連線 (HTTP 200): https://www.hkybqufgh.com |
+| Python | `py/kkys.py` | ⚠️ 站點存活(載入受限) | 1192 | 站點可連線 (HTTP 200): https://www.kkys20.com |
+| Python | `py/like.py` | ⚠️ 站點存活(載入受限) | 212 | 站點可連線 (HTTP 200): https://www.iqiyi.com |
+| Python | `py/mifun.py` | ⚠️ 站點存活(載入受限) | 353 | 站點可連線 (HTTP 200): https://getcn.mymifun.com |
+| Python | `py/oule.py` | ⚠️ 站點存活(載入受限) | 190 | 站點可連線 (HTTP 200): https://www.olevod.one |
+| Python | `py/pianku4k.py` | ⚠️ 站點存活(載入受限) | 663 | 站點可連線 (HTTP 200): https://4k01.pianku.online |
+| Python | `py/ppnix.py` | ⚠️ 站點存活(載入受限) | 314 | 站點可連線 (HTTP 200): https://www.ppnix.com |
+| Python | `py/qiyoudy.py` | ⚠️ 站點存活(載入受限) | 163 | 站點可連線 (HTTP 200): http://www.qiyoudy2.com |
+| Python | `py/yangguang.py` | ⚠️ 站點存活(載入受限) | 730 | 站點可連線 (HTTP 200): https://www.yangguangbd.com |
+| Python | `py/ysttv.py` | ⚠️ 站點存活(載入受限) | 488 | 站點可連線 (HTTP 200): http://ysttv.com |
+| Python | `py/ytb.py` | ⚠️ 站點存活(載入受限) | 260 | 站點可連線 (HTTP 200): https://www.youtube.com |
+| Python | `py/ytbzb.py` | ⚠️ 站點存活(載入受限) | 259 | 站點可連線 (HTTP 200): https://www.youtube.com |
+| Python | `py/yysub.py` | ⚠️ 站點存活(載入受限) | 642 | 站點可連線 (HTTP 200): https://m.yysub.cc |
+| Python | `py/两个BT.py` | ⚠️ 站點存活(載入受限) | 636 | 站點可連線 (HTTP 200): https://www.bttwoo.com |
+| Python | `py/优酷视频.py` | ⚠️ 站點存活(載入受限) | 854 | 站點可連線 (HTTP 200): https://www.youku.com |
+| Python | `py/哔哩直播.py` | ⚠️ 站點存活(載入受限) | 499 | 站點可連線 (HTTP 200): https://search.bilibili.com |
+| Python | `py/哔哩视频.py` | ⚠️ 站點存活(載入受限) | 815 | 站點可連線 (HTTP 200): https://api.bilibili.com/pgc/season/index/result?order=2&sort=0&pagesize=20&type=1&st={}&season_type={}&page={} |
+| Python | `py/央视影视.py` | ⚠️ 站點存活(載入受限) | 1268 | 站點可連線 (HTTP 200): https://api.cntv.cn/NewVideo/getVideoListByColumn?{0}&n=20&sort=desc&mode=0&serviceId=tvcctv&t=json |
+| Python | `py/奇优动漫.py` | ⚠️ 站點存活(載入受限) | 214 | 站點可連線 (HTTP 200): http://qiyoudy5.com/search.php |
+| Python | `py/奇迹影视.py` | ⚠️ 站點存活(載入受限) | 122 | 站點可連線 (HTTP 200): https://www.qj1080.top |
+| Python | `py/小红薯APP.py` | ⚠️ 站點存活(載入受限) | 442 | 站點可連線 (HTTP 200): https://jhfkdnov21vfd.dyfcbkggxn.work |
+| Python | `py/小苹果APP.py` | ⚠️ 站點存活(載入受限) | 174 | 站點可連線 (HTTP 200): http://item.xpgtv.com |
+| Python | `py/小苹果影视.py` | ⚠️ 站點存活(載入受限) | 329 | 站點可連線 (HTTP 200): http://item.xpgcom.com |
+| Python | `py/广东荔枝.py` | ⚠️ 站點存活(載入受限) | 1126 | 站點可連線 (HTTP 200): https://www.gdtv.cn |
+| Python | `py/爱奇艺.py` | ⚠️ 站點存活(載入受限) | 427 | 站點可連線 (HTTP 200): https://www.iqiyi.com |
+| Python | `py/爱瓜影视.py` | ⚠️ 站點存活(載入受限) | 304 | 站點可連線 (HTTP 200): https://tvapi211.magicetech.com |
+| Python | `py/球球.py` | ⚠️ 站點存活(載入受限) | 201 | 站點可連線 (HTTP 200): https://kzb29rda.com |
+| Python | `py/瓜子.py` | ⚠️ 站點存活(載入受限) | 423 | 站點可連線 (HTTP 200): https://api.w32z7vtd.com |
+| Python | `py/界影视.py` | ⚠️ 站點存活(載入受限) | 2403 | 站點可連線 (HTTP 200): https://www.hkybqufgh.com |
+| Python | `py/盘友圈.py` | ⚠️ 站點存活(載入受限) | 208 | 站點可連線 (HTTP 200): https://panyq.com |
+| Python | `py/米盘搜.py` | ⚠️ 站點存活(載入受限) | 1682 | 站點可連線 (HTTP 200): http://www.misoso.cc |
+| Python | `py/粤漫.py` | ⚠️ 站點存活(載入受限) | 868 | 站點可連線 (HTTP 200): https://www.ymvid.com |
+| Python | `py/网络直播.py` | ⚠️ 站點存活(載入受限) | 34 | 站點可連線 (HTTP 200): https://www.huya.com |
+| Python | `py/芒果视频.py` | ⚠️ 站點存活(載入受限) | 231 | 站點可連線 (HTTP 200): https://www.mgtv.com |
+| Python | `py/饭团影视.py` | ⚠️ 站點存活(載入受限) | 234 | 站點可連線 (HTTP 200): https://fantuansjz.com |
+| Python | `py/8kvod.py` | ✅ 正常 | 347 | homeContent 響應成功 |
 | Python | `py/apples.py` | ✅ 正常 | 9 | homeContent 響應成功 |
-| Python | `py/hongguo.py` | ✅ 正常 | 654 | homeContent 響應成功 |
+| Python | `py/hongguo.py` | ✅ 正常 | 495 | homeContent 響應成功 |
 | Python | `py/juok3.py` | ✅ 正常 | 6 | homeContent 響應成功 |
-| Python | `py/juzong.py` | ✅ 正常 | 3 | homeContent 響應成功 |
-| Python | `py/libvio.py` | ✅ 正常 | 927 | homeContent 響應成功 |
-| Python | `py/maple.py` | ✅ 正常 | 101 | homeContent 響應成功 |
-| Python | `py/ruyishipin.py` | ✅ 正常 | 7494 | homeContent 響應成功 |
-| Python | `py/shortfilm.py` | ✅ 正常 | 4013 | homeContent 響應成功 |
+| Python | `py/juzong.py` | ✅ 正常 | 4 | homeContent 響應成功 |
+| Python | `py/libvio.py` | ✅ 正常 | 994 | homeContent 響應成功 |
+| Python | `py/maple.py` | ✅ 正常 | 108 | homeContent 響應成功 |
+| Python | `py/ruyishipin.py` | ✅ 正常 | 5647 | homeContent 響應成功 |
+| Python | `py/shortfilm.py` | ✅ 正常 | 4310 | homeContent 響應成功 |
 | Python | `py/wxty.py` | ✅ 正常 | 3 | homeContent 響應成功 |
-| Python | `py/yangshipin.py` | ✅ 正常 | 34 | homeContent 響應成功 |
-| Python | `py/yinhuaone.py` | ✅ 正常 | 1427 | homeContent 響應成功 |
-| Python | `py/偷乐短剧.py` | ✅ 正常 | 815 | homeContent 響應成功 |
-| Python | `py/河马短剧.py` | ✅ 正常 | 1994 | homeContent 響應成功 |
-| Python | `py/蓝莓短剧.py` | ✅ 正常 | 951 | homeContent 響應成功 |
-| Python | `py/4KAV.py` | ❌ 失效 | 176 | 連線失敗 (HTTP 403): https://4k-av.com ➔ 已移至 `py/NG/4KAV.py` |
-| Python | `py/Hanime.py` | ❌ 失效 | 80 | 連線失敗 (HTTPSConnectionPool(host='hanime1.b): https://hanime1.best ➔ 已移至 `py/NG/Hanime.py` |
-| Python | `py/dandanqi.py` | ❌ 失效 | 1131 | 連線失敗 (HTTP 404): https://www.dandanqi.cc ➔ 已移至 `py/NG/dandanqi.py` |
-| Python | `py/dantatv.py` | ❌ 失效 | 10083 | 連線失敗 (HTTPSConnectionPool(host='www.danta): https://www.dantatv.cc ➔ 已移至 `py/NG/dantatv.py` |
-| Python | `py/guowaiju.py` | ❌ 失效 | 457 | 連線失敗 (('Connection aborted.', ConnectionR): https://guowaiju.com ➔ 已移至 `py/NG/guowaiju.py` |
-| Python | `py/hitvAPP.py` | ❌ 失效 | 236 | 連線失敗 (HTTPSConnectionPool(host='wys.upfuh): https://wys.upfuhn.com ➔ 已移至 `py/NG/hitvAPP.py` |
-| Python | `py/lavAPP.py` | ❌ 失效 | 31 | 連線失敗 (HTTPConnectionPool(host='sir_new.ti): http://sir_new.tiansexyl.tv ➔ 已移至 `py/NG/lavAPP.py` |
-| Python | `py/mioaying影视.py` | ❌ 失效 | 10046 | 連線失敗 (HTTPConnectionPool(host='zero.mitot): http://zero.mitotv.com ➔ 已移至 `py/NG/mioaying影视.py` |
-| Python | `py/ptt_red.py` | ❌ 失效 | 128 | 連線失敗 (HTTP 403): https://ptt.red ➔ 已移至 `py/NG/ptt_red.py` |
-| Python | `py/py_aigua.py` | ❌ 失效 | 1846 | 連線失敗 (HTTPSConnectionPool(host='aigua1.co): https://aigua1.com ➔ 已移至 `py/NG/py_aigua.py` |
-| Python | `py/py_jianpian.py` | ❌ 失效 | 817 | 連線失敗 (HTTPSConnectionPool(host='ev5356.97): https://ev5356.970xw.com ➔ 已移至 `py/NG/py_jianpian.py` |
-| Python | `py/saohuo.py` | ❌ 失效 | 477 | 連線失敗 (HTTP 522): https://shdy5.us ➔ 已移至 `py/NG/saohuo.py` |
-| Python | `py/shanzha.py` | ❌ 失效 | 10160 | 連線失敗 (HTTPConnectionPool(host='qkys.qukan): http://qkys.qukanwh.com ➔ 已移至 `py/NG/shanzha.py` |
-| Python | `py/ssjh.py` | ❌ 失效 | 349 | 連線失敗 (HTTP 404): http://api.hclyz.com:81/mf ➔ 已移至 `py/NG/ssjh.py` |
-| Python | `py/wbbb.py` | ❌ 失效 | 931 | 連線失敗 (HTTP 403): https://wbbb1.com ➔ 已移至 `py/NG/wbbb.py` |
-| Python | `py/xlys.py` | ❌ 失效 | 10256 | 連線失敗 (HTTPSConnectionPool(host='v.xl.in.u): https://v.xl.in.ua ➔ 已移至 `py/NG/xlys.py` |
-| Python | `py/yangguang.py` | ❌ 失效 | 10052 | 連線失敗 (HTTPSConnectionPool(host='www.yangg): https://www.yangguangbd.com ➔ 已移至 `py/NG/yangguang.py` |
-| Python | `py/yunduo.py` | ❌ 失效 | 15 | 連線失敗 (HTTPConnectionPool(host='154.21.198): http://154.21.198.181:8002 ➔ 已移至 `py/NG/yunduo.py` |
-| Python | `py/yymp3.py` | ❌ 失效 | 10087 | 連線失敗 (HTTPSConnectionPool(host='www.yymp3): https://www.yymp3.com ➔ 已移至 `py/NG/yymp3.py` |
-| Python | `py/农民影视.py` | ❌ 失效 | 1501 | 連線失敗 (HTTPSConnectionPool(host='www.nmdvd): https://www.nmdvd.com ➔ 已移至 `py/NG/农民影视.py` |
-| Python | `py/剧多短剧.py` | ❌ 失效 | 10147 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/剧多短剧.py` |
-| Python | `py/剧多短剧APP.py` | ❌ 失效 | 10012 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/剧多短剧APP.py` |
-| Python | `py/剧粑粑影视.py` | ❌ 失效 | 1021 | 連線失敗 (HTTP 404): https://www.jubaba.vip ➔ 已移至 `py/NG/剧粑粑影视.py` |
-| Python | `py/嗨皮影视.py` | ❌ 失效 | 234 | 連線失敗 (HTTPSConnectionPool(host='wys.upfuh): https://wys.upfuhn.com ➔ 已移至 `py/NG/嗨皮影视.py` |
-| Python | `py/嗷呜动漫.py` | ❌ 失效 | 651 | 連線失敗 (HTTPSConnectionPool(host='www.aowu.): https://www.aowu.tv ➔ 已移至 `py/NG/嗷呜动漫.py` |
-| Python | `py/国外剧.py` | ❌ 失效 | 272 | 連線失敗 (('Connection aborted.', ConnectionR): https://guowaiju.com ➔ 已移至 `py/NG/国外剧.py` |
-| Python | `py/奇库影视.py` | ❌ 失效 | 10223 | 連線失敗 (HTTPSConnectionPool(host='ww38.qkys): https://qkys.me ➔ 已移至 `py/NG/奇库影视.py` |
-| Python | `py/好帅短剧.py` | ❌ 失效 | 2130 | 連線失敗 (HTTPSConnectionPool(host='www.nhsyy): https://www.nhsyy.com ➔ 已移至 `py/NG/好帅短剧.py` |
-| Python | `py/小熊猫影视.py` | ❌ 失效 | 10118 | 連線失敗 (HTTPConnectionPool(host='220.231.14): http://220.231.146.94:6261 ➔ 已移至 `py/NG/小熊猫影视.py` |
-| Python | `py/小红影视.py` | ❌ 失效 | 333 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.xiaohys.com ➔ 已移至 `py/NG/小红影视.py` |
-| Python | `py/恋鱼影视.py` | ❌ 失效 | 10016 | 連線失敗 (HTTPConnectionPool(host='47.122.22.): http://47.122.22.78 ➔ 已移至 `py/NG/恋鱼影视.py` |
-| Python | `py/推特APP.py` | ❌ 失效 | 422 | 連線失敗 (HTTP 404): https://d1frehx187fm2c.cloudfront.net/api/user/traveler ➔ 已移至 `py/NG/推特APP.py` |
-| Python | `py/旺旺影视.py` | ❌ 失效 | 1400 | 連線失敗 (HTTPSConnectionPool(host='www.nmdvd): https://www.nmdvd.com ➔ 已移至 `py/NG/旺旺影视.py` |
-| Python | `py/柯南影视.py` | ❌ 失效 | 1693 | 連線失敗 (HTTP 520): https://www.knvod.com ➔ 已移至 `py/NG/柯南影视.py` |
-| Python | `py/浴火社APP.py` | ❌ 失效 | 77 | 連線失敗 (HTTPSConnectionPool(host='lulu-api-): https://lulu-api-92mizw.jcdwn.com ➔ 已移至 `py/NG/浴火社APP.py` |
-| Python | `py/海马影视.py` | ❌ 失效 | 99 | 連線失敗 (HTTPConnectionPool(host='w.dcmovie.): http://w.dcmovie.top ➔ 已移至 `py/NG/海马影视.py` |
-| Python | `py/火车影视.py` | ❌ 失效 | 864 | 連線失敗 (HTTP 400): https://dns.alidns.com/dns-query ➔ 已移至 `py/NG/火车影视.py` |
-| Python | `py/爱看短剧.py` | ❌ 失效 | 10131 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/爱看短剧.py` |
-| Python | `py/甜圈短剧.py` | ❌ 失效 | 90 | 連線失敗 (HTTPSConnectionPool(host='mov.cengu): https://mov.cenguigui.cn ➔ 已移至 `py/NG/甜圈短剧.py` |
-| Python | `py/红果网页.py` | ❌ 失效 | 313 | 連線失敗 (HTTP 403): https://www.hongguodj.cc ➔ 已移至 `py/NG/红果网页.py` |
-| Python | `py/绝对影视.py` | ❌ 失效 | 647 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jdys.art ➔ 已移至 `py/NG/绝对影视.py` |
-| Python | `py/美帕APP.py` | ❌ 失效 | 110 | 連線失敗 (HTTPSConnectionPool(host='g.c494.co): https://g.c494.com ➔ 已移至 `py/NG/美帕APP.py` |
-| Python | `py/美帕影视.py` | ❌ 失效 | 111 | 連線失敗 (HTTPSConnectionPool(host='g.c494.co): https://g.c494.com ➔ 已移至 `py/NG/美帕影视.py` |
-| Python | `py/胖虎APP.py` | ❌ 失效 | 10286 | 連線失敗 (HTTPConnectionPool(host='sm.physkan): http://sm.physkan.top:3389 ➔ 已移至 `py/NG/胖虎APP.py` |
-| Python | `py/茶杯狐影视.py` | ❌ 失效 | 276 | 連線失敗 (HTTPSConnectionPool(host='cupfoxys.): https://cupfoxys.cc ➔ 已移至 `py/NG/茶杯狐影视.py` |
-| Python | `py/边缘影视.py` | ❌ 失效 | 2040 | 連線失敗 (HTTP 403): https://bianyuan001.oss-cn-beijing.aliyuncs.com/huidu1.0.0.json ➔ 已移至 `py/NG/边缘影视.py` |
-| Python | `py/零度影视.py` | ❌ 失效 | 525 | 連線失敗 (HTTPSConnectionPool(host='ldys.sq10): http://ldys.sq1005.top ➔ 已移至 `py/NG/零度影视.py` |
-| Python | `py/骚火影视.py` | ❌ 失效 | 536 | 連線失敗 (HTTP 522): https://shdy2.com ➔ 已移至 `py/NG/骚火影视.py` |
-| Python | `py/高清电影.py` | ❌ 失效 | 467 | 連線失敗 (HTTPSConnectionPool(host='www.gaoqi): https://www.gaoqing888.com ➔ 已移至 `py/NG/高清电影.py` |
+| Python | `py/yangshipin.py` | ✅ 正常 | 32 | homeContent 響應成功 |
+| Python | `py/yinhuaone.py` | ✅ 正常 | 1738 | homeContent 響應成功 |
+| Python | `py/偷乐短剧.py` | ✅ 正常 | 538 | homeContent 響應成功 |
+| Python | `py/河马短剧.py` | ✅ 正常 | 2330 | homeContent 響應成功 |
+| Python | `py/蓝莓短剧.py` | ✅ 正常 | 1073 | homeContent 響應成功 |
+| Python | `py/4KAV.py` | ❌ 失效 | 501 | 連線失敗 (HTTP 403): https://4k-av.com ➔ 已移至 `py/NG/4KAV.py` |
+| Python | `py/Hanime.py` | ❌ 失效 | 241 | 連線失敗 (HTTPSConnectionPool(host='hanime1.b): https://hanime1.best ➔ 已移至 `py/NG/Hanime.py` |
+| Python | `py/dandanqi.py` | ❌ 失效 | 1435 | 連線失敗 (HTTP 404): https://www.dandanqi.cc ➔ 已移至 `py/NG/dandanqi.py` |
+| Python | `py/dantatv.py` | ❌ 失效 | 10120 | 連線失敗 (HTTPSConnectionPool(host='www.danta): https://www.dantatv.cc ➔ 已移至 `py/NG/dantatv.py` |
+| Python | `py/guowaiju.py` | ❌ 失效 | 555 | 連線失敗 (('Connection aborted.', ConnectionR): https://guowaiju.com ➔ 已移至 `py/NG/guowaiju.py` |
+| Python | `py/hitvAPP.py` | ❌ 失效 | 266 | 連線失敗 (HTTPSConnectionPool(host='wys.upfuh): https://wys.upfuhn.com ➔ 已移至 `py/NG/hitvAPP.py` |
+| Python | `py/lavAPP.py` | ❌ 失效 | 270 | 連線失敗 (HTTPConnectionPool(host='sir_new.ti): http://sir_new.tiansexyl.tv ➔ 已移至 `py/NG/lavAPP.py` |
+| Python | `py/mioaying影视.py` | ❌ 失效 | 10045 | 連線失敗 (HTTPConnectionPool(host='zero.mitot): http://zero.mitotv.com ➔ 已移至 `py/NG/mioaying影视.py` |
+| Python | `py/ptt_red.py` | ❌ 失效 | 141 | 連線失敗 (HTTP 403): https://ptt.red ➔ 已移至 `py/NG/ptt_red.py` |
+| Python | `py/py_aigua.py` | ❌ 失效 | 1637 | 連線失敗 (HTTPSConnectionPool(host='aigua1.co): https://aigua1.com ➔ 已移至 `py/NG/py_aigua.py` |
+| Python | `py/py_jianpian.py` | ❌ 失效 | 1488 | 連線失敗 (HTTPSConnectionPool(host='ev5356.97): https://ev5356.970xw.com ➔ 已移至 `py/NG/py_jianpian.py` |
+| Python | `py/saohuo.py` | ❌ 失效 | 584 | 連線失敗 (HTTP 522): https://shdy5.us ➔ 已移至 `py/NG/saohuo.py` |
+| Python | `py/shanzha.py` | ❌ 失效 | 10187 | 連線失敗 (HTTPConnectionPool(host='qkys.qukan): http://qkys.qukanwh.com ➔ 已移至 `py/NG/shanzha.py` |
+| Python | `py/ssjh.py` | ❌ 失效 | 543 | 連線失敗 (HTTP 404): http://api.hclyz.com:81/mf ➔ 已移至 `py/NG/ssjh.py` |
+| Python | `py/wbbb.py` | ❌ 失效 | 1342 | 連線失敗 (HTTP 403): https://wbbb1.com ➔ 已移至 `py/NG/wbbb.py` |
+| Python | `py/xlys.py` | ❌ 失效 | 10139 | 連線失敗 (HTTPSConnectionPool(host='v.xl.in.u): https://v.xl.in.ua ➔ 已移至 `py/NG/xlys.py` |
+| Python | `py/yunduo.py` | ❌ 失效 | 59 | 連線失敗 (HTTPConnectionPool(host='154.21.198): http://154.21.198.181:8002 ➔ 已移至 `py/NG/yunduo.py` |
+| Python | `py/yymp3.py` | ❌ 失效 | 10058 | 連線失敗 (HTTPSConnectionPool(host='www.yymp3): https://www.yymp3.com ➔ 已移至 `py/NG/yymp3.py` |
+| Python | `py/农民影视.py` | ❌ 失效 | 1616 | 連線失敗 (HTTPSConnectionPool(host='www.nmdvd): https://www.nmdvd.com ➔ 已移至 `py/NG/农民影视.py` |
+| Python | `py/剧多短剧.py` | ❌ 失效 | 10320 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/剧多短剧.py` |
+| Python | `py/剧多短剧APP.py` | ❌ 失效 | 10016 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/剧多短剧APP.py` |
+| Python | `py/剧粑粑影视.py` | ❌ 失效 | 1500 | 連線失敗 (HTTP 404): https://www.jubaba.vip ➔ 已移至 `py/NG/剧粑粑影视.py` |
+| Python | `py/嗨皮影视.py` | ❌ 失效 | 556 | 連線失敗 (HTTPSConnectionPool(host='wys.upfuh): https://wys.upfuhn.com ➔ 已移至 `py/NG/嗨皮影视.py` |
+| Python | `py/嗷呜动漫.py` | ❌ 失效 | 792 | 連線失敗 (HTTPSConnectionPool(host='www.aowu.): https://www.aowu.tv ➔ 已移至 `py/NG/嗷呜动漫.py` |
+| Python | `py/国外剧.py` | ❌ 失效 | 230 | 連線失敗 (('Connection aborted.', ConnectionR): https://guowaiju.com ➔ 已移至 `py/NG/国外剧.py` |
+| Python | `py/奇库影视.py` | ❌ 失效 | 10408 | 連線失敗 (HTTPSConnectionPool(host='ww38.qkys): https://qkys.me ➔ 已移至 `py/NG/奇库影视.py` |
+| Python | `py/好帅短剧.py` | ❌ 失效 | 797 | 連線失敗 (HTTPSConnectionPool(host='www.nhsyy): https://www.nhsyy.com ➔ 已移至 `py/NG/好帅短剧.py` |
+| Python | `py/小熊猫影视.py` | ❌ 失效 | 10286 | 連線失敗 (HTTPConnectionPool(host='220.231.14): http://220.231.146.94:6261 ➔ 已移至 `py/NG/小熊猫影视.py` |
+| Python | `py/小红影视.py` | ❌ 失效 | 598 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.xiaohys.com ➔ 已移至 `py/NG/小红影视.py` |
+| Python | `py/恋鱼影视.py` | ❌ 失效 | 10014 | 連線失敗 (HTTPConnectionPool(host='47.122.22.): http://47.122.22.78 ➔ 已移至 `py/NG/恋鱼影视.py` |
+| Python | `py/推特APP.py` | ❌ 失效 | 520 | 連線失敗 (HTTP 404): https://d1frehx187fm2c.cloudfront.net/api/user/traveler ➔ 已移至 `py/NG/推特APP.py` |
+| Python | `py/旺旺影视.py` | ❌ 失效 | 1192 | 連線失敗 (HTTPSConnectionPool(host='www.nmdvd): https://www.nmdvd.com ➔ 已移至 `py/NG/旺旺影视.py` |
+| Python | `py/柯南影视.py` | ❌ 失效 | 2528 | 連線失敗 (HTTP 520): https://www.knvod.com ➔ 已移至 `py/NG/柯南影视.py` |
+| Python | `py/浴火社APP.py` | ❌ 失效 | 54 | 連線失敗 (HTTPSConnectionPool(host='lulu-api-): https://lulu-api-92mizw.jcdwn.com ➔ 已移至 `py/NG/浴火社APP.py` |
+| Python | `py/海马影视.py` | ❌ 失效 | 138 | 連線失敗 (HTTPConnectionPool(host='w.dcmovie.): http://w.dcmovie.top ➔ 已移至 `py/NG/海马影视.py` |
+| Python | `py/火车影视.py` | ❌ 失效 | 811 | 連線失敗 (HTTP 400): https://dns.alidns.com/dns-query ➔ 已移至 `py/NG/火车影视.py` |
+| Python | `py/爱看短剧.py` | ❌ 失效 | 10312 | 連線失敗 (HTTPConnectionPool(host='192.151.24): http://192.151.245.34:8089 ➔ 已移至 `py/NG/爱看短剧.py` |
+| Python | `py/甜圈短剧.py` | ❌ 失效 | 326 | 連線失敗 (HTTPSConnectionPool(host='mov.cengu): https://mov.cenguigui.cn ➔ 已移至 `py/NG/甜圈短剧.py` |
+| Python | `py/红果网页.py` | ❌ 失效 | 532 | 連線失敗 (HTTP 403): https://www.hongguodj.cc ➔ 已移至 `py/NG/红果网页.py` |
+| Python | `py/绝对影视.py` | ❌ 失效 | 476 | 連線失敗 (('Connection aborted.', ConnectionR): https://www.jdys.art ➔ 已移至 `py/NG/绝对影视.py` |
+| Python | `py/美帕APP.py` | ❌ 失效 | 258 | 連線失敗 (HTTPSConnectionPool(host='g.c494.co): https://g.c494.com ➔ 已移至 `py/NG/美帕APP.py` |
+| Python | `py/美帕影视.py` | ❌ 失效 | 88 | 連線失敗 (HTTPSConnectionPool(host='g.c494.co): https://g.c494.com ➔ 已移至 `py/NG/美帕影视.py` |
+| Python | `py/胖虎APP.py` | ❌ 失效 | 10068 | 連線失敗 (HTTPConnectionPool(host='sm.physkan): http://sm.physkan.top:3389 ➔ 已移至 `py/NG/胖虎APP.py` |
+| Python | `py/茶杯狐影视.py` | ❌ 失效 | 112 | 連線失敗 (HTTPSConnectionPool(host='cupfoxys.): https://cupfoxys.cc ➔ 已移至 `py/NG/茶杯狐影视.py` |
+| Python | `py/边缘影视.py` | ❌ 失效 | 2478 | 連線失敗 (HTTP 403): https://bianyuan001.oss-cn-beijing.aliyuncs.com/huidu1.0.0.json ➔ 已移至 `py/NG/边缘影视.py` |
+| Python | `py/零度影视.py` | ❌ 失效 | 1538 | 連線失敗 (HTTP 403): http://ldys.sq1005.top ➔ 已移至 `py/NG/零度影视.py` |
+| Python | `py/骚火影视.py` | ❌ 失效 | 728 | 連線失敗 (HTTP 522): https://shdy2.com ➔ 已移至 `py/NG/骚火影视.py` |
+| Python | `py/高清电影.py` | ❌ 失效 | 547 | 連線失敗 (HTTPSConnectionPool(host='www.gaoqi): https://www.gaoqing888.com ➔ 已移至 `py/NG/高清电影.py` |
 | Python | `py/Teng.py` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `py/NG/Teng.py` |
 | Python | `py/douban.py` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `py/NG/douban.py` |
 | Python | `py/douban2.py` | ❌ 異常 | 0 | 未偵測到有效網站 URL ➔ 已移至 `py/NG/douban2.py` |
